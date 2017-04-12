@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../data-science-from-scratch/.idea/data-science-from-scratch.iml" filepath="$PROJECT_DIR$/../data-science-from-scratch/.idea/data-science-from-scratch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nfu40241105/.idea/nfu40241105.iml" filepath="$PROJECT_DIR$/../nfu40241105/.idea/nfu40241105.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/untitled.iml" filepath="$PROJECT_DIR$/.idea/untitled.iml" />
+    </modules>
+  </component>
+</project>
